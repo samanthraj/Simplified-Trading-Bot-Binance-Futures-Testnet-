@@ -1,0 +1,38 @@
+2026-06-12 12:19:03,926 - INFO - side validation request
+2026-06-12 12:19:03,927 - INFO - side is buy
+2026-06-12 12:20:38,320 - INFO - side validation request
+2026-06-12 12:20:38,321 - INFO - side is buy
+2026-06-12 12:20:51,513 - INFO - side validation request
+2026-06-12 12:20:51,513 - INFO - side is buy
+2026-06-12 12:22:01,934 - INFO - side validation request
+2026-06-12 12:22:01,935 - INFO - side is buy
+2026-06-12 12:22:02,517 - INFO - new order of  1.0 BTCUSDT  at None buyis requested 
+2026-06-12 12:22:03,221 - ERROR - order failed:APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-06-12 12:23:58,878 - INFO - side validation request
+2026-06-12 12:23:58,878 - INFO - side is buy
+2026-06-12 12:23:59,476 - INFO - new order of  1.0 BTCUSDT  at None buyis requested 
+2026-06-12 12:24:00,403 - ERROR - order failed:APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-06-12 12:28:40,319 - INFO - side validation request
+2026-06-12 12:28:40,320 - INFO - side is buy
+2026-06-12 12:28:40,936 - INFO - new order of  1.0 BTCUSDT  at None buyis requested 
+2026-06-12 12:28:41,870 - ERROR - order failed:APIError(code=-1102): Mandatory parameter 'symbol' was not sent, was empty/null, or malformed.
+2026-06-12 12:31:10,983 - INFO - side validation request
+2026-06-12 12:31:10,983 - INFO - side is buy
+2026-06-12 12:31:11,533 - INFO - new order of  1.0 BTCUSDT  at None buyis requested 
+2026-06-12 12:31:12,266 - ERROR - order failed:APIError(code=-1117): Invalid side.
+2026-06-12 12:38:01,104 - INFO - side validation request
+2026-06-12 12:38:01,104 - INFO - side is BUY
+2026-06-12 12:38:01,735 - INFO - new order of  1.0 BTCUSDT  at None BUYis requested 
+2026-06-12 12:38:01,735 - ERROR - order failed:unsupported order type:MARKET
+2026-06-12 12:38:14,167 - INFO - side validation request
+2026-06-12 12:38:14,167 - INFO - side is BUY
+2026-06-12 12:38:14,716 - INFO - new order of  1.0 BTCUSDT  at None BUYis requested 
+2026-06-12 12:38:14,717 - ERROR - order failed:unsupported order type:MARKET
+2026-06-12 14:12:07,499 - INFO - side validation request
+2026-06-12 14:12:07,500 - INFO - side is BUY
+2026-06-12 14:12:08,206 - INFO - new order of  1.0 BTCUSDT  at None BUYis requested 
+2026-06-12 14:12:08,207 - ERROR - order failed:unsupported order type:MARKET
+2026-06-12 14:12:44,135 - INFO - side validation request
+2026-06-12 14:12:44,135 - INFO - side is BUY
+2026-06-12 14:12:44,668 - INFO - new order of  1.0 BTCUSDT  at None BUYis requested 
+2026-06-12 14:12:45,422 - INFO - order is executed
